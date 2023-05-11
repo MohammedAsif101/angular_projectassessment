@@ -1,0 +1,135 @@
+.offer {
+	margin-top: -240px;
+}
+.offer .offer-row {
+	margin: 95px 0 90px;
+}
+.offer .col {
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	width: 338px;
+}
+.offer .ico-col1,
+.offer .ico-col2,
+.offer .ico-col3,
+.offer .ico-col4 {
+	background-position: center center;
+	background-repeat: no-repeat;
+	height: 47px;
+	margin: 50px auto;
+	width: 50px;
+}
+.offer .ico-col1 {
+	background-image: url(../header/images/col-ico-1.png);
+}
+.offer .ico-col2 {
+	background-image: url(../header/images/col-ico-2.png);
+}
+.offer .ico-col3 {
+	background-image: url(../header/images/col-ico-3.png);
+}
+.offer .ico-col4 {
+	background-image: url(../header/images/col-ico-4.png);
+}
+.offer p {
+	font-size: 18px;
+}
+.offer .col .title-col {
+	font-size: 18px;
+	line-height: 1.5;
+	margin-bottom: 40px;
+}
+.offer .col p {
+	font-size: 14px;
+	line-height: 24px;
+}
+.offer .main-button {
+	margin-bottom: 120px;
+}
+
+.box-row,
+.john-row {
+	background-color: #f7f8fb;
+	clear: both;
+	position: relative;
+}
+.john-row {
+	height: 628px;
+}
+.box-row .box-text {
+	display: inline-block;
+	vertical-align: middle;
+	width: 49.7%;
+}
+.box-row .box-image2,
+.box-row .box-image {
+	display: inline-block;
+	vertical-align: middle;
+	width: 50%;
+}
+.apps-block {
+	overflow: hidden;
+	position: relative;
+}
+
+.snow-q {
+	left: 20px;
+	top: -100px;
+}
+.snow-w {
+	bottom: -190px;
+	right: -120px;
+}
+.snow-q,
+.snow-w {
+	position: absolute;
+	z-index: -1;
+}
+.stack-one,
+.stack-two {
+	clear: both;
+	z-index: 2;
+}
+.palyer-app {
+	padding: 160px 6% 180px 23%;
+}
+.player-app-img,
+.chat-app-img {
+	width: 100%;
+}
+.chat-app {
+	padding: 0 23% 180px 6%;
+}
+.chat-app-img {
+	margin-top: -40px;
+}
+.palyer-app-about h1,
+.chat-app-about h1 {
+	color: #43a9ff;
+}
+.palyer-app-about h1,
+.palyer-app-about p,
+.chat-app-about h1,
+.chat-app-about p {
+	text-align: left;
+	width: 60%;
+}
+.chat-app-about h1,
+.chat-app-about p {
+	float: right;
+}
+.palyer-app-about {
+	margin-top: -50px;
+}
+.chat-app-about {
+	margin-top: -240px;
+}
+.palyer-app,
+.palyer-app-about,
+.chat-app,
+.chat-app-about {
+	display: inline-block;
+	vertical-align: middle;
+	width: 49.85%;
+}

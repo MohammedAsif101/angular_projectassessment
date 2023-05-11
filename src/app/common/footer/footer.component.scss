@@ -1,0 +1,56 @@
+/* footer */
+
+
+.john .john-row {
+	z-index: -2;
+}
+.john h1 {
+	color: #fe3254;
+}
+.john .john-col-1 {
+	display: inline-block;
+	width: 52%;
+}
+.snow-man,
+.snow-man2 {
+	left: 257px;
+	position: absolute;
+	top: 60px;
+}
+.snow-man {
+	z-index: -1;
+}
+.snow-man2 {
+	opacity: .15;
+}
+.john-photo {
+	bottom: 0;
+	left: 25px;
+	position: absolute;
+	z-index: -1;
+}
+.john .john-col-2 {
+	display: inline-block;
+	padding-top: 168px;
+	text-align: left;
+}
+.about-john .title {
+	font-size: 18px;
+	padding-top: 40px;
+}
+.about-john p {
+	margin: 0;
+}
+.main-footer {
+	background-image: url(../assets/images/bg-footer.png);
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	height: 1400px;
+	width: 100%;
+}
+.main-footer p {
+	margin: 130px 0 10px 0;
+}
+.main-footer .main-button {
+	margin-top: 90px;
+}
